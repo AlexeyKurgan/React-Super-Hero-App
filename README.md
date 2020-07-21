@@ -4,4 +4,15 @@
 
 
 
-## Getting Started
+# Getting Started
+
+### clone repo
+git clone https://github.com/AlexeyKurgan/React-Super-Hero-App.git
+
+### navigate to repo
+cd React-Super-Hero-App
+
+### install deps
+npm install
+
+
