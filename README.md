@@ -15,4 +15,7 @@ cd React-Super-Hero-App
 ### install deps
 npm install
 
+### to start the project 
+npm start
+
 
