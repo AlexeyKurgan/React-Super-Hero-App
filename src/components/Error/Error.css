@@ -1,0 +1,17 @@
+.error-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.error-title {
+    font-size: 25px;
+    color: #D33241;
+}
+
+.error-img {
+    width: 1000px;
+    height: 500px;
+    margin: 5px;
+}

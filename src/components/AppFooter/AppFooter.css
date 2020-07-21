@@ -1,0 +1,17 @@
+.footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 60px;
+    background-color: #000;
+    color: white;
+}
+
+.fa-github {
+    font-size: 30px;
+    color: white;
+}
+
+.fa-github:hover {
+    color: rgb(211, 50, 65);
+}

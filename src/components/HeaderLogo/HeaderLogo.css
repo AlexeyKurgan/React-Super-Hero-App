@@ -1,0 +1,21 @@
+.logo {
+    min-width: 270px;
+    display: flex;
+    justify-content: space-around;
+    font-size: 25px;
+    font-weight: 900;
+    min-height: 50px;
+    margin-left: 90px;
+}
+
+.logo__sub {
+    display: flex;
+}
+
+.logo__mid {
+    display: flex;
+}
+
+.logo__bot {
+    display: flex;
+}

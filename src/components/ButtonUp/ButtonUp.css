@@ -1,0 +1,35 @@
+.btn-up {
+
+    width: 70px;
+    height: 70px;
+    color: white;
+    background-color: #D33241;
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    z-index: 10;
+    border-radius: 50%;
+    border: 1px solid #fff;
+    font-size: 15px;
+    cursor: pointer;
+    transition: all 0.9s ease-in;
+    display: none;
+}
+
+.d-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 16px;
+}
+
+.btn-text {
+    margin-top: -10px;
+    padding: 0;
+}
+
+.fa-angle-up {
+    margin-top: -10px;
+    font-size: 30px;
+}
